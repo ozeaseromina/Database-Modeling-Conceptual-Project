@@ -1,7 +1,7 @@
 **_Projeto Conceitual de Modelagem de Banco de Dados_** 👨‍🔧🚓
 
 Este projeto de modelagem de banco de dados foi solicitado para desenvolvermos 
-habilidades lógicos conceitos estudados no curso de Datebase Dio. 
+habilidades lógicos conceitos estudados no curso de Database Dio. 
 
 -A  ferramenta utilizada no projeto foi o MySQL Workbench.
 - O assunto abordado foi uma Oficina Mecânica.
